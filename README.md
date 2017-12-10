@@ -1,20 +1,16 @@
 # WP Nonce OOP - an OOP wrapper for WordPress Nonces
---------
 
 WP Nonce OOP is a Composer package wrapping the functionality of WordPress Nonces the OOP way
 
 
 ## Usage
---------
 
 After downloading the source code run _composer install_
 
 Add the following code to your theme's functions.php or to your plugin's main file
 
 ```php
-
 require __DIR__ . '/vendor/autoload.php';
-
 ```
 
 
@@ -105,13 +101,17 @@ $nonce->ays();
 **Install and run PHPUnit**
 
 
-
 ## License
---------
-MIT
+
+[MIT](https://opensource.org/licenses/MIT)
+
+
+## Links
+
+1. [WordPress Codex - Nonces](https://codex.wordpress.org/WordPress_Nonces)
+2. [PHPUnit](https://phpunit.de)
 
 
 ## Credits
--------
 
 * Author: **Sergey Pozhilov** - http://pozhilov.com
