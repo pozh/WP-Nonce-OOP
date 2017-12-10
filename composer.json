@@ -1,0 +1,14 @@
+{
+  "name": "Pozh/oop-nonces",
+  "description": "Composer package serving the functionality of WordPress Nonces in OOP environment",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergey Pozhilov",
+      "email": "sergey@pozhilov.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"Pozh\\": "src/"}
+  }
+}
